@@ -1,0 +1,2 @@
+ProjektDomu.blend filter=lfs diff=lfs merge=lfs -text
+ProjektDomu.blend1 filter=lfs diff=lfs merge=lfs -text
